@@ -1,0 +1,22 @@
+[
+  {
+    "file": "01.png",
+    "caption": "A capped gearbox section",
+    "alt": "Cutaway gearbox with orange cut faces, gears, bearing covers and separated hardware",
+    "steps": [
+      "Planetary gearbox",
+      "X cutting plane at0.12",
+      "Explode parts0.24"
+    ]
+  },
+  {
+    "file": "02.png",
+    "caption": "Through the lens barrel",
+    "alt": "Sectioned optical lens with distinct internal glass elements and retaining rings",
+    "steps": [
+      "Optical lens",
+      "X plane at0.05",
+      "Explode parts0.65"
+    ]
+  }
+]
